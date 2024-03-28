@@ -57,4 +57,3 @@ lib-cov
 *.pem
 *.cert
 *.key
-*.next
